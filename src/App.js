@@ -1,5 +1,4 @@
 import './App.css';
-import { useState } from 'react';
 import { SpeechToText } from './components'
 
 function App() {
